@@ -1,0 +1,39 @@
+.button {
+	display: inline-block;
+	height: min-content;
+	cursor: pointer;
+	padding: 20px 32px;
+    font-weight: 500;
+    font-size: 16px;
+	color: #fff;
+	font-family: 'Comfortaa', sans-serif;
+	font-style: normal;
+	border: none;
+	transition: background-color 0.5s ease, transform ease-in-out .3s;
+	background-color: #D22A34;
+	border-radius: 3px;
+	border-radius: 8px;
+}
+
+.button:hover {
+	background-color: #E33B45;
+	color: #fff;
+}
+
+.button:active {
+	background: #FC4E58;
+	transition: background-color 0.5s ease;
+}
+
+
+
+
+.bonus_left__icon-img {
+	width: 90px;
+    height: 90px;
+    padding: 23px;
+    background: #D4B2D5;
+    border-radius: 50%;
+    display: flex;
+    align-items: flex-end;
+}

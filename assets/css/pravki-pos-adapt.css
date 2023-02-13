@@ -1,0 +1,6 @@
+@media (max-width: 768px) {
+	.reviews-info_right .button {
+		position: static;
+		margin-top: 20px;
+	}
+}
